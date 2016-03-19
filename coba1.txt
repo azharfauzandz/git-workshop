@@ -1,2 +1,4 @@
 Hello
 satu
+dua
+tiga
